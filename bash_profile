@@ -1,5 +1,6 @@
-export LSCOLORS="exgxxxxxcxxxxxcxcxecec"
-alias ls='ls -lGH'
+export LSCOLORS="Exgxxxxxcxxxxxcxcxecec"
+alias ls='ls -G'
+alias ll='ls -lG'
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
